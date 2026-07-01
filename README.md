@@ -1,67 +1,69 @@
 # 🌡️ Temperature Converter
 
-## SkillCraft Technology - Software Development Internship
+## SkillCraft Technology – Software Development Internship
 
-### Task 1
+### 📌 Task 1: Temperature Converter
 
-## 📌 Project Description
+## 📖 Project Description
 
-This Python application converts temperatures between Celsius, Fahrenheit, and Kelvin scales.
+This project is a Python-based **Temperature Converter** that allows users to convert temperatures between **Celsius (°C)**, **Fahrenheit (°F)**, and **Kelvin (K)**.
 
-The program allows users to select a temperature scale, enter a value, and instantly view the converted temperatures in the other two scales.
+The application provides a simple menu-driven interface where users can select the input temperature scale, enter a temperature value, and instantly view the converted values in the other two temperature scales.
 
-This project was developed as part of the Software Development Internship at SkillCraft Technology.
+This project was developed as part of the **SkillCraft Technology Software Development Internship**.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- Convert Celsius to Fahrenheit and Kelvin
-- Convert Fahrenheit to Celsius and Kelvin
-- Convert Kelvin to Celsius and Fahrenheit
-- Menu-driven interface
-- Input validation
-- Error handling using try-except
-- Prevents invalid Kelvin values
-- Allows multiple conversions without restarting the program
+- 🌡️ Convert Celsius to Fahrenheit and Kelvin
+- 🌡️ Convert Fahrenheit to Celsius and Kelvin
+- 🌡️ Convert Kelvin to Celsius and Fahrenheit
+- 📋 Menu-driven interface
+- ✅ Input validation
+- ⚠️ Error handling using `try-except`
+- 🚫 Prevents invalid Kelvin values
+- 🔄 Allows multiple conversions without restarting the program
+- 💻 Simple and user-friendly console application
 
 ---
 
 ## 🛠️ Technologies Used
 
 - Python 3
+- Visual Studio Code
+- Git
+- GitHub
 
 ---
 
 ## 📂 Project Structure
 
+```text
 SCT_SD_1/
-
+│
 ├── temperature_converter.py
-
 ├── README.md
-
-├── requirements.txt
-
 └── screenshots/
-
-  └── output.png
+    └── output.png
+```
 
 ---
 
 ## ▶️ How to Run
 
-1. Open the project folder.
-2. Open Terminal or Command Prompt.
-3. Run the following command:
+1. Clone this repository.
+2. Open the project folder.
+3. Open Terminal or Command Prompt.
+4. Run the following command:
 
 ```bash
 python temperature_converter.py
 ```
 
-4. Select the temperature scale.
-5. Enter the temperature value.
-6. View the converted results.
+5. Choose the temperature scale.
+6. Enter the temperature value.
+7. View the converted results.
 
 ---
 
@@ -71,7 +73,7 @@ python temperature_converter.py
 
 ---
 
-## 📖 Concepts Used
+## 📚 Python Concepts Used
 
 - Functions
 - Conditional Statements
@@ -87,18 +89,27 @@ python temperature_converter.py
 
 Through this project, I learned:
 
-- Temperature conversion formulas
-- Python function implementation
-- Exception handling techniques
-- Creating menu-driven applications
-- Writing clean and reusable code
-- Organizing projects using GitHub
+- Implementing temperature conversion formulas
+- Designing a menu-driven Python application
+- Using functions to improve code organization
+- Handling invalid user input using exception handling
+- Writing clean, readable, and reusable Python code
+- Managing projects using Git and GitHub
+
+---
+
+## 🚀 Future Improvements
+
+- Develop a graphical user interface (GUI) using Tkinter.
+- Add a conversion history feature.
+- Allow users to save conversion results.
+- Improve the overall user interface and user experience.
 
 ---
 
 ## 👩‍💻 Author
 
-Swathi Niddena
+**Swathi Niddena**
 
 Software Development Intern
 
@@ -106,8 +117,14 @@ SkillCraft Technology
 
 ---
 
-## 🔗 Internship Track
+## 📌 Internship Details
 
-SkillCraft Technology - Software Development Internship
+- **Organization:** SkillCraft Technology
+- **Track:** Software Development Internship
+- **Task:** Task 1 – Temperature Converter
 
-Repository Name: SCT_SD_1
+---
+
+## ⭐ Acknowledgement
+
+This project was completed as part of the **SkillCraft Technology Software Development Internship** to strengthen Python programming skills, problem-solving abilities, and software development practices.
